@@ -1,3 +1,5 @@
+NOTE: This repo is mostly a copy of the original it was forked from. The only change I made is removing dependency on SvelteKit.
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/janosh/svelte-toc/main/static/favicon.svg" alt="Svelte ToC" height=60>
   <br>&ensp;Svelte ToC
